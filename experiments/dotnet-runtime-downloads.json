@@ -1,0 +1,51 @@
+{
+  "version": "10.0.12",
+  "release_metadata_source": "dotnet-10-releases.json captured during original investigation",
+  "official_downloads": [
+    {
+      "name": "dotnet-apphost-pack-win-arm64.zip",
+      "rid": "win-arm64",
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.12/dotnet-apphost-pack-10.0.12-win-arm64.zip",
+      "hash": "64c46c40072d3f567a7528d6a448600a9725c743bfca99df5962d8e511fcc01d02129aabd00a563a1099d23c99ac50507669ddf6298109c4e80416c372c5b5e7"
+    },
+    {
+      "name": "dotnet-runtime-win-arm64.zip",
+      "rid": "win-arm64",
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.12/dotnet-runtime-10.0.12-win-arm64.zip",
+      "hash": "1f939a42c52919e789038fed6d410771eb41b5d0ff65c6dd117b200a5623a734cb6b2a25e00d4932d779b3bbe200f165977633d18fdb8dec03f9307527169c04"
+    },
+    {
+      "name": "dotnet-runtime-win-x64.zip",
+      "rid": "win-x64",
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.12/dotnet-runtime-10.0.12-win-x64.zip",
+      "hash": "844fa99e16fd6f44e0a7c29def7a82d7846902334d6a955248a9519a4dddb3f5acceb9c9223bef69f8c83b8ae2417537e5b76dddf79fb7117dc85b5039bc1297"
+    },
+    {
+      "name": "windowsdesktop-runtime-win-arm64.zip",
+      "rid": "win-arm64",
+      "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.12/windowsdesktop-runtime-10.0.12-win-arm64.zip",
+      "hash": "c65a61ab22e5b4155cf15d4c2e01ffd1cbfd47ceb6f5bdb0a0baeb22f79ae0d19d3f2d58839a3399ce48ea05f8993eabf779f4490c6f81aa8548f27502646540"
+    },
+    {
+      "name": "windowsdesktop-runtime-win-x64.zip",
+      "rid": "win-x64",
+      "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.12/windowsdesktop-runtime-10.0.12-win-x64.zip",
+      "hash": "8b79f679c348aa08a10ee4e1ca75be54b135ae951b7328400fea8499f9eb8450ccb18f9f708af6182b2bcd88fcca719aa282939e907b017422f519de8dd42534"
+    }
+  ],
+  "local_archive_sha256": {
+    "dotnet-runtime-10.0.12-win-x64.zip": "da3947e6acbb5228e4e987c7585aa40ce2d7000856e3da0804e6ee3771e806dc",
+    "windowsdesktop-runtime-10.0.12-win-x64.zip": "9e775baa2087ed3dc650a66029d1c2852418ec35d008716fbc1e93c49aec1f9e",
+    "dotnet-runtime-10.0.12-win-arm64.zip": "54039abe0d12e18fd746d441bbeeb2ba53e0df882a89cb8a9915472b8a5cb740",
+    "windowsdesktop-runtime-10.0.12-win-arm64.zip": "df535b029518e4a589edf32d672cecfa2a0c0c3f6406da1e0c9ce7c1dd9d1f57",
+    "dotnet-apphost-pack-10.0.12-win-arm64.zip": "f11cce3fce5a55a54dca598a99ba032c28f65d03773dae05d9f1f285835407e6"
+  },
+  "verification": {
+    "directory_contents_match_archives": true,
+    "file_counts": {
+      "dotnet-win": 480,
+      "dotnet-win-arm64": 479,
+      "apphost-win-arm64": 12
+    }
+  }
+}

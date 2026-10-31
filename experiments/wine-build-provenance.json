@@ -1,0 +1,7 @@
+{
+  "base_commit": "db11d0fe6a169c457e23d007e20404643d067aa8",
+  "historical_configure_commands": [
+    "$ ../wine-11.0/configure --without-x --disable-tests"
+  ],
+  "note": "Historical build metadata; this archival pass does not rerun Wine or device runtime tests."
+}
