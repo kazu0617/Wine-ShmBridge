@@ -1,0 +1,82 @@
+[
+  {
+    "source": "shmbridge-unixlib/mark_builtin.c",
+    "saved": "experiments/steam-frame-unixlib/mark_builtin.c",
+    "sha256": "9e055666288bd43125aff96c889f69dffd195a99bea1fbb3d59781207d4f4726"
+  },
+  {
+    "source": "shmbridge-unixlib/shmbridge.def",
+    "saved": "experiments/steam-frame-unixlib/shmbridge.def",
+    "sha256": "bca3644eaa16ff3ef465e0261f94017101c895fbb8fea247545124c7053b4719"
+  },
+  {
+    "source": "shmbridge-unixlib/shmbridge_abi.h",
+    "saved": "experiments/steam-frame-unixlib/shmbridge_abi.h",
+    "sha256": "bdd8a093e3a9aaab4328c64f0b69a1b40da89da86258c00d6b40f897df3c260c"
+  },
+  {
+    "source": "shmbridge-unixlib/shmbridge_pe.c",
+    "saved": "experiments/steam-frame-unixlib/shmbridge_pe.c",
+    "sha256": "9350947be7ee48aa877118f465fb14c4fc518fc0ad16fbdd0a19626aff83b94d"
+  },
+  {
+    "source": "shmbridge-unixlib/shmbridge_unix.c",
+    "saved": "experiments/steam-frame-unixlib/shmbridge_unix.c",
+    "sha256": "1e32c999648be63261dcf3a0948b62c720194090511d1bec59e3d56a2f854a1d"
+  },
+  {
+    "source": "shmbridge-unixlib/test_bridge.c",
+    "saved": "experiments/steam-frame-unixlib/test_bridge.c",
+    "sha256": "4f3b05212b54e51d24230cc2c71877e6bb83f89b44d2aff7e1e76b34fdf76c9f"
+  },
+  {
+    "source": "LinuxBootstrap.arm64.sh",
+    "saved": "experiments/steam-frame-tools/LinuxBootstrap.arm64.sh",
+    "sha256": "7f6e0990ebd7662928e99f7bcebf788c21904a38a10cc2f04b26efa20350ac57"
+  },
+  {
+    "source": "dotnet_bundle_tool.py",
+    "saved": "experiments/steam-frame-tools/dotnet_bundle_tool.py",
+    "sha256": "b075c439cb34a1a882e7b2a26326cd62d0d596d8a4db4ee5d29be40604a32973"
+  },
+  {
+    "source": "make_arm64_resonite_apphost.py",
+    "saved": "experiments/steam-frame-tools/make_arm64_resonite_apphost.py",
+    "sha256": "3ad378208d05bf90ce35d7aa5a8ddb6eff8f029ff0dd7f57a19ad56abeed4d79"
+  },
+  {
+    "source": "patch_interprocess_il.py",
+    "saved": "experiments/steam-frame-tools/patch_interprocess_il.py",
+    "sha256": "b49cc989a675fb165f99c7c88df64295077ef325096688378d534550915ab748"
+  },
+  {
+    "source": "patch_renderer_interprocess_il.py",
+    "saved": "experiments/steam-frame-tools/patch_renderer_interprocess_il.py",
+    "sha256": "88e1a04b690f65fefaed37fe493dc5ff2c4e11aad2039bc2b3b2ddbafd625d25"
+  },
+  {
+    "source": "patch_resonite_working_directory_il.py",
+    "saved": "experiments/steam-frame-tools/patch_resonite_working_directory_il.py",
+    "sha256": "df538ba26c8748ed650bd4006842e715ceba1a39cd4149822dd36b853fd3dcfb"
+  },
+  {
+    "source": "shmbridge_arm64.c",
+    "saved": "experiments/steam-frame-tools/shmbridge_arm64.c",
+    "sha256": "48faa286478842938cbdd5bad908e77e05b4dcc2c7c7e2ae6f59f4743b809603"
+  },
+  {
+    "source": "shmbridge_arm64_wine.c",
+    "saved": "experiments/steam-frame-tools/shmbridge_arm64_wine.c",
+    "sha256": "e887eea260e5f7280e46c31e488573d719fc348cacfee892129afbfff5333c46"
+  },
+  {
+    "source": "send_f12.c",
+    "saved": "experiments/steam-frame-tools/send_f12.c",
+    "sha256": "dc5c22f83f5a5d9427b04330fb4ca811583670fca62bce69d29a2894b5baf03b"
+  },
+  {
+    "source": "cdp_eval.py",
+    "saved": "experiments/steam-frame-tools/cdp_eval.py",
+    "sha256": "24dca9bb04f8345dccc049480f161c7c7f2962efbb2e2dcad3845f229bb3e58f"
+  }
+]

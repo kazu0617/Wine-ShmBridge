@@ -1,0 +1,11 @@
+LIBRARY "shmbridge.dll.so"
+EXPORTS
+    sem_open
+    sem_post
+    sem_wait
+    sem_trywait
+    sem_timedwait
+    sem_unlink
+    sem_close
+    get_product_info
+    get_version_info
